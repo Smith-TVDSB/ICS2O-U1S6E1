@@ -4,9 +4,9 @@
 Edit the file named "student.py".  
 Using f strings recreate the example from the notes, except have the user enter the item name, quantity, and price. Then have it output in the same format.  
 #### Input  
-Power Glove
-1
-299.99
+Power Glove  
+1  
+299.99  
 #### Output  
 Power Glove has 1 in stock, and it costs $299.99  
   
