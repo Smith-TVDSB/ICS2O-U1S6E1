@@ -10,6 +10,8 @@ Power Glove
 #### Output  
 Power Glove has 1 in stock, and it costs $299.99  
   
+#### Note
+You should only use one print statement for the output, and should use an f String.
 
 ## Check your work
 Select the "Actions" tab on GitHub and select your latest commit. This will show you if your exercise passes all test cases.
